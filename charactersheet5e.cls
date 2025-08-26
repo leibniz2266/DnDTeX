@@ -654,7 +654,7 @@
 		\node at (0.72,3.68) [text width=0.2in,align=right,shape=rectangle] {\bfseries\fmod\DEX@mod};
 		%Constitution
 		\node at (0.6,4.32) [text width=0.5in,align=center,shape=rectangle] {\Huge\bfseries\@CON};
-		\node at (0.72,4.67) [text width=0.2in,align=right,shape=rectangle] {\bfseries\fmod\CHA@mod};
+		\node at (0.72,4.67) [text width=0.2in,align=right,shape=rectangle] {\bfseries\fmod\CON@mod};
 		%Intelligence
 		\node at (0.6,5.32) [text width=0.5in,align=center,shape=rectangle] {\Huge\bfseries\@INT};
 		\node at (0.72,5.67) [text width=0.2in,align=right,shape=rectangle] {\bfseries\fmod\INT@mod};
